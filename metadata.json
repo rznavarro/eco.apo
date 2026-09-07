@@ -1,0 +1,6 @@
+{
+  "name": "EcoApo - Energía Solar y Sustentable",
+  "description": "Landing page moderna para EcoApo Argentina: soluciones en energía solar para hogares, campo, empresas y red de distribuidores con cálculo de ahorro y cotización online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
